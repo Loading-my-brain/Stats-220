@@ -1,11 +1,6 @@
 # Stats 220
 
 
-### My tasks for this STATS 220 course are: 
-- [ ] Get all of my labs + quizzes done
-- [ ] Start early with my assignment &  finish them early
-- [ ] REVISE and ace the exam!
-
 ## BUT WAIT! Who am I!? 
 I am an undergraduate student from the University Of Auckland majoring in the beautiful field of ✨**Statistics**✨. Although Statistics is my major and joy, I am also interested in other areas: *Chemistry(!), Communications, Biology and Commerce*. So, I am on a Journey to find my forever passion and overall refinement!
 
